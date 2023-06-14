@@ -3,7 +3,7 @@
 - Entraînement à la lecture et à la retranscription en Java d'informations fournies textuellement.
 - Entraînement à de l'algorithmique simple (révision module 319).
 - Révision de l'ensemble des concepts vus en classe.
-- **`Bonne préparation à la E1 à venir`**.
+- **Bonne préparation à la E1 à venir**.
 
 ## Durée :
 Vous devriez être en mesure de réaliser l'ensemble des fonctionnalités décrites ci-dessous en **1h à 1h30** maximum.
